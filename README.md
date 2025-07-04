@@ -36,8 +36,8 @@ Aplikasi Manajemen Perpustakaan berbasis Java Desktop dengan GUI Swing, dibuat m
 4. Build & Run melalui NetBeans (`Run Project`) atau terminal:
    ```bash
    ant run
-
-   ---
+   
+---
 
 ## 🔑 Login Admin
 
