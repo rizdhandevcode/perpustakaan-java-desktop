@@ -1,0 +1,19 @@
+# Hasil kompilasi / build
+/build/
+/dist/
+*.class
+
+# Private NetBeans config
+/nbproject/private/
+
+# Log dan file sementara
+*.log
+*.tmp
+*.bak
+*~ 
+
+# Exclude semua .jar di root atau tempat lain, KECUALI di folder lib/
+*.jar
+
+# Tapi sertakan JAR di folder lib/
+!lib/*.jar
